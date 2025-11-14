@@ -3,7 +3,8 @@
   <info>
     <title>MODIFIED Chicago Manual of Style 18th edition (notes and bibliography, short for secondary, long for primary)</title>
     <title-short>MODIFIED CMOS with Bluebook (notes and bibliography [13.18])</title-short>
-    <id>http://ericrauchway.com</id>
+    <id>https://raw.githubusercontent.com/erauchway/csl-mod/refs/heads/main/cmos_mod.csl</id>
+    <link>https://raw.githubusercontent.com/erauchway/csl-mod/refs/heads/main/cmos_mod.csl</link>
     <author>
       <name>Andrew Dunning</name>
       <uri>https://orcid.org/0000-0003-0464-5036</uri>
@@ -28,7 +29,7 @@
     <category field="theology"/>
     <summary>Chicago-style source citations (with Bluebook for legal citations), notes and bibliography with short for secondary, long for primary</summary>
     <updated>2025-11-14</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
