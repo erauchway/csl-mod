@@ -4,7 +4,7 @@
     <title>MODIFIED Chicago Manual of Style 18th edition (notes and bibliography, short for secondary, long for primary)</title>
     <title-short>MODIFIED CMOS with Bluebook (notes and bibliography [13.18])</title-short>
     <id>https://raw.githubusercontent.com/erauchway/csl-mod/refs/heads/main/cmos_mod.csl</id>
-    <link>https://raw.githubusercontent.com/erauchway/csl-mod/refs/heads/main/cmos_mod.csl</link>
+    <link href = "https://raw.githubusercontent.com/erauchway/csl-mod/refs/heads/main/cmos_mod.csl" rel="self" />
     <author>
       <name>Andrew Dunning</name>
       <uri>https://orcid.org/0000-0003-0464-5036</uri>
